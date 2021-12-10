@@ -2,7 +2,7 @@
 <br>
 
 - 🔭 Início dos meus trabalhos pessoais com front-end;
-- 🌱 Estou evoluindo meus estudos em Javascript, e também estou me capacitando em WordPress.
+- 🌱 Estou prestes a começar a estudar Javascript, e também já estou me capacitando em WordPress.
 
 <br>
 <div align="center">
