@@ -1,9 +1,8 @@
 ### Olá! <br> Sou a Francielle S. Ribeiro. 
 <br>
 
-<div align="center">
-  <img scr:"https://user-images.githubusercontent.com/84882022/146003351-cc5285f5-cf2f-4887-aaf4-e7a652fd6890.jpg" />
-</div>
+![fran](https://user-images.githubusercontent.com/84882022/146003351-cc5285f5-cf2f-4887-aaf4-e7a652fd6890.jpg)
+
 
 - 🔭 Início dos meus trabalhos pessoais com front-end;
 - 🌱 Estou prestes a começar a estudar Javascript, e também já estou me capacitando em WordPress.
@@ -36,6 +35,5 @@
 </div>
 
   ##
-<div align="center">
-  ![se-fosse-facil](https://user-images.githubusercontent.com/84882022/146002639-b6806981-106b-494b-9aae-d25944766b41.jpg)
-</div>
+ 
+  
