@@ -35,9 +35,6 @@
 </div>
 
   ##
-
-![fran](https://user-images.githubusercontent.com/84882022/146003351-cc5285f5-cf2f-4887-aaf4-e7a652fd6890.jpg)
-
   
 <div align="center">
   
