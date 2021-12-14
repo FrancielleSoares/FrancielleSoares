@@ -1,4 +1,4 @@
-### Olá! <br> Eu sou a Francielle S. Ribeiro. 
+### Olá! <br> Sou a Francielle S. Ribeiro. 
 <br>
 
 - 🔭 Início dos meus trabalhos pessoais com front-end;
