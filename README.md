@@ -4,7 +4,7 @@
 ![fran](https://user-images.githubusercontent.com/84882022/146003351-cc5285f5-cf2f-4887-aaf4-e7a652fd6890.jpg)
 
 
-- 🔭 Início dos meus trabalhos pessoais com front-end;
+- 🔭 Esse é o início dos meus trabalhos pessoais com front-end;
 - 🌱 Estou prestes a começar a estudar Javascript, e também já estou me capacitando em WordPress.
 
 ## 
