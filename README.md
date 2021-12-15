@@ -37,8 +37,6 @@
   ##
   
 <div align="center">
-  
-![rsrs](https://user-images.githubusercontent.com/84882022/146053401-03a03a46-b1fd-462e-aa3d-59deece744ae.png)
-  
+ https://user-images.githubusercontent.com/84882022/146060834-4673882e-5a46-406e-b9fb-1b6e54623d0d.mp4
 </div>
  
