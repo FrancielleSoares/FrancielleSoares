@@ -4,8 +4,8 @@
 ![giphy](https://user-images.githubusercontent.com/84882022/146021704-560962d2-4b31-49a1-85e5-ac72ce51fae7.gif)
   
 
-- 🔭 Esse é o início dos meus trabalhos pessoais com front-end;
-- 🌱 Estou prestes a começar a estudar Javascript, e também já estou me capacitando em WordPress.
+- 🔭 início dos meus trabalhos e projetos com front-end;
+- 🌱 estou prestes a começar a estudar Javascript, e também já estou me capacitando em WordPress.
 
 ## 
 
