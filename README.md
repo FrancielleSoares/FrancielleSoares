@@ -5,7 +5,6 @@
   
 
 - 🔭 início dos meus trabalhos e projetos com front-end;
-- 🌱 estou prestes a começar a estudar Javascript, e também já estou me capacitando em WordPress.
 
 ## 
 
