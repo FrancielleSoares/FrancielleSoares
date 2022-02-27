@@ -5,6 +5,7 @@
   
 
 - 🔭 início dos meus trabalhos e projetos com front-end;
+- #códigoTodoDia apartir do dia 27/02/22.
 
 ## 
 
